@@ -1,0 +1,4 @@
+baseURL = 'https://kamenlabs.github.io/'
+languageCode = 'en-us'
+title = 'Test test'
+theme = 'ananke'
