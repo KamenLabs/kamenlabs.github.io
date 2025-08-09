@@ -8,8 +8,7 @@
 ./new-multilang.sh chapter jfmed 
 ./new-multilang.sh chapter fmph 
 ./new-multilang.sh chapter frcth 
-./new-multilang.sh chapter fevth 
-./new-multilang.sh chapter fphil 
+./new-multilang.sh chapter fevth  
 ./new-multilang.sh chapter fm 
 ./new-multilang.sh chapter fses 
 ./new-multilang.sh chapter ubytovanie 
