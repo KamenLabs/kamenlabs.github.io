@@ -1,14 +1,19 @@
 baseURL = 'https://kamenlabs.github.io/'
 theme = 'hugo-theme-relearn'
 
+[params]
+  [[params.themeVariant]]
+    identifier = 'relearn-light'
+    name = 'Light'
+
+  [[params.themeVariant]]
+    identifier = 'relearn-dark'
+    name = 'Dark'
+
 defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = true
 
 [languages]
-  [languages.en]
-    title = 'Kameň Labs'
-    contentDir = 'content/english'
-    languageName = 'English'
-    weight = 40
   [languages.uk]
     title = 'Kameň Labs UA'
     contentDir = 'content/ukrainian'
@@ -24,3 +29,8 @@ defaultContentLanguage = 'uk'
     contentDir = 'content/slovak'
     languageName = 'Slovenský'
     weight = 30
+  [languages.en]
+    title = 'Kameň Labs'
+    contentDir = 'content/english'
+    languageName = 'English'
+    weight = 40

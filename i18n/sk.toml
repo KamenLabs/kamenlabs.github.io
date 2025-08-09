@@ -1,0 +1,140 @@
+[Reading-direction]
+other = "ltr"
+
+[Versioning-warning]
+other = 'Čítate verziu {{.pageVersion.title}} tejto stránky. Aktuálnu verziu nájdete <a href="{{.latestUrl}}">tu</a>.'
+
+[Search]
+other = "Hľadať"
+
+[Search-placeholder]
+other = "Hľadať..."
+
+[Clear-search]
+other = "Vyčistiť hľadanie"
+
+[No-results-found]
+other = "Nenašli sa žiadne výsledky pre \"{0}\""
+
+[N-results-found]
+other = "{1} výsledkov nájdených pre \"{0}\""
+
+[Clear-History]
+other = "Vymazať históriu"
+
+[Reset-view]
+other = "Obnoviť zobrazenie"
+
+[View-reset]
+other = "Zobrazenie obnovené!"
+
+[Attachments-label]
+other = "Prílohy"
+
+[title-404]
+other = "Nenájdené"
+
+[message-404]
+other = "Ups. Zdá sa, že táto stránka neexistuje ¯\\_(ツ)_/¯."
+
+[Go-to-homepage]
+other = "Prejsť na hlavnú stránku"
+
+[home-button]
+other = "Domov"
+
+[Edit-this-page]
+other = "Upraviť"
+
+[Show-Markdown]
+other = "Zobraziť Markdown"
+
+[Show-source]
+other = "Zobraziť zdrojový kód"
+
+[Print-this-chapter]
+other = "Vytlačiť celú kapitolu"
+
+[More-action]
+other = "Viac"
+
+[shortcuts-menuTitle]
+other = "Viac"
+
+[Expand-title]
+other = "Rozbaliť..."
+
+[Navigation-toggle]
+other = "Menu"
+
+[Toc-toggle]
+other = "Obsah"
+
+[Byte-symbol]
+other = "B"
+
+[Kilobyte-symbol]
+other = "KB"
+
+[Megabyte-symbol]
+other = "MB"
+
+[caution]
+other = "Upozornenie"
+
+[important]
+other = "Dôležité"
+
+[info]
+other = "Info"
+
+[note]
+other = "Poznámka"
+
+[tip]
+other = "Tip"
+
+[warning]
+other = "Varovanie"
+
+[Copy-to-clipboard]
+other = "Kopírovať do schránky"
+
+[Copied-to-clipboard]
+other = "Skopírované do schránky!"
+
+[Copy-link-to-clipboard]
+other = "Kopírovať odkaz do schránky"
+
+[Link-copied-to-clipboard]
+other = "Odkaz skopírovaný do schránky!"
+
+[Chapter]
+other = "Kapitola {{.}}"
+
+[Language]
+other = "Jazyk"
+
+[Theme]
+other = "Téma"
+
+[Submenu]
+other = "Podmenu {{.}}"
+
+[Subsections]
+other = "Podsekcie v {{.}}"
+
+[tags]
+other = "Značky"
+
+[tag]
+other = "Značka"
+
+[categories]
+other = "Kategórie"
+
+[category]
+other = "Kategória"
+
+[Details]
+other = "Podrobnosti"
