@@ -13,7 +13,7 @@ Website supports 4 languages:
 
 Create a markdown. 
 - **Where?** `<language_name>/<theme>/<subtheme>/.../<topic_name>/_index.md` **OR** `<language_name>/<theme>/<subtheme>/.../<topic_name>/<subtopics_name>.md` (**only when topic already exists**)
-- **How?** By creating 4 files ny hand, or by running `hugo new --type "<type>" <path>`, or by running `new-multilang.sh`.
+- **How?** By creating 4 files ny hand, or by running `hugo new --type "<type>" <path>` (**for each language one should run one command**), or by running `new-multilang.sh`.
 
 
 File structure:
