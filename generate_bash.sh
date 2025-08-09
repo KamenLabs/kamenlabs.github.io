@@ -1,17 +1,18 @@
-./new-multilang.sh chapter fmed/_index.md
-./new-multilang.sh chapter flaw/_index.md
-./new-multilang.sh chapter fphil/_index.md
-./new-multilang.sh chapter fns/_index.md
-./new-multilang.sh chapter fedu/_index.md
-./new-multilang.sh chapter fpharm/_index.md
-./new-multilang.sh chapter fsport/_index.md
-./new-multilang.sh chapter jfmed/_index.md
-./new-multilang.sh chapter fmph/_index.md
-./new-multilang.sh chapter frcth/_index.md
-./new-multilang.sh chapter fevth/_index.md
-./new-multilang.sh chapter fphil/_index.md
-./new-multilang.sh chapter fm/_index.md
-./new-multilang.sh chapter fses/_index.md
+./new-multilang.sh chapter faculties/_index.md
+
+./new-multilang.sh chapter faculties/flaw/_index.md
+./new-multilang.sh chapter faculties/fphil/_index.md
+./new-multilang.sh chapter faculties/fns/_index.md
+./new-multilang.sh chapter faculties/fedu/_index.md
+./new-multilang.sh chapter faculties/fpharm/_index.md
+./new-multilang.sh chapter faculties/fsport/_index.md
+./new-multilang.sh chapter faculties/jfmed/_index.md
+./new-multilang.sh chapter faculties/fmph/_index.md
+./new-multilang.sh chapter faculties/frcth/_index.md
+./new-multilang.sh chapter faculties/fevth/_index.md
+./new-multilang.sh chapter faculties/fphil/_index.md
+./new-multilang.sh chapter faculties/fm/_index.md
+./new-multilang.sh chapter faculties/fses/_index.md
 
 ./new-multilang.sh chapter ubytovanie/_index.md
 
