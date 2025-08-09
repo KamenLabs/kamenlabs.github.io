@@ -1,5 +1,5 @@
 +++
-title = "Fses"
+title = "Fakulta sociálnych a ekonomických vied"
 type = "chapter"
 weight = 0
 +++

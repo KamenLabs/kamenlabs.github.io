@@ -1,5 +1,5 @@
 +++
-title = "Frcth"
+title = "Faculty of Roman-Catholic Theology"
 type = "chapter"
 weight = 0
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Fsport"
+title = "Факультет фізичного виховання і спорту"
 type = "chapter"
 weight = 0
 +++

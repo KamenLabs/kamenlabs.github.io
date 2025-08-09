@@ -1,5 +1,5 @@
 +++
-title = "Fmph"
+title = "Факультет математики, физики и информатики"
 type = "chapter"
 weight = 0
 +++

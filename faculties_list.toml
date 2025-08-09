@@ -1,8 +1,14 @@
-[fmed]
-    ua = "Медичний факультет"
-    ru = "Медицинский факультет"
-    en = "Faculty of Medicine"
-    sk = "Lekárska fakulta"
+[fedu]
+    ua = "Педагогічний факультет"
+    ru = "Педагогический факультет"
+    en = "Faculty of Education"
+    sk = "Pedagogická fakulta"
+
+[fevth]
+    ua = "Євангелічно-лютеранський теологічний факультет"
+    ru = "Евангелическо-лютеранский теологический факультет"
+    en = "Evangelical Lutheran Theological Faculty"
+    sk = "Evanjelická bohoslovecká fakulta"
 
 [flaw]
     ua = "Юридичний факультет"
@@ -10,11 +16,23 @@
     en = "Faculty of Law"
     sk = "Právnická fakulta"
 
-[fphil]
-    ua = "Філософський факультет"
-    ru = "Философский факультет"
-    en = "Faculty of Arts"
-    sk = "Filozofická fakulta"
+[fm]
+    ua = "Факультет менеджменту"
+    ru = "Факультет менеджмента"
+    en = "Faculty of Management"
+    sk = "Fakulta managementu"
+
+[fmed]
+    ua = "Медичний факультет"
+    ru = "Медицинский факультет"
+    en = "Faculty of Medicine"
+    sk = "Lekárska fakulta"
+
+[fmph]
+    ua = "Факультет математики, фізики та інформатики"
+    ru = "Факультет математики, физики и информатики"
+    en = "Faculty of Mathematics, Physics and Informatics"
+    sk = "Fakulta matematiky, fyziky a informatiky"
 
 [fns]
     ua = "Факультет природничих наук"
@@ -22,17 +40,30 @@
     en = "Faculty of Natural Sciences"
     sk = "Prírodovedecká fakulta"
 
-[fedu]
-    ua = "Педагогічний факультет"
-    ru = "Педагогический факультет"
-    en = "Faculty of Education"
-    sk = "Pedagogická fakulta"
 
 [fpharm]
     ua = "Фармацевтичний факультет"
     ru = "Фармацевтический факультет"
     en = "Faculty of Pharmacy"
     sk = "Farmaceutická fakulta"
+
+[fphil]
+    ua = "Філософський факультет"
+    ru = "Философский факультет"
+    en = "Faculty of Arts"
+    sk = "Filozofická fakulta"
+
+[frcth]
+    ua = "Факультет римо-католицької теології"
+    ru = "Факультет римо-католической теологии"
+    en = "Faculty of Roman-Catholic Theology"
+    sk = "Rímskokatolícka cyrilometodská bohoslovecká fakulta"
+
+[fses]
+    ua = "Факультет соціально-економічних наук"
+    ru = "Факультет социально-экономических наук"
+    en = "Faculty of Social and Economic Sciences"
+    sk = "Fakulta sociálnych a ekonomických vied"
 
 [fsport]
     ua = "Факультет фізичного виховання і спорту"
@@ -45,33 +76,3 @@
     ru = "Есениусский медицинский факультет"
     en = "Jessenius Faculty of Medicine"
     sk = "Jesseniova lekárska fakulta"
-
-[fmph]
-    ua = "Факультет математики, фізики та інформатики"
-    ru = "Факультет математики, физики и информатики"
-    en = "Faculty of Mathematics, Physics and Informatics"
-    sk = "Fakulta matematiky, fyziky a informatiky"
-
-[frcth]
-    ua = "Факультет римо-католицької теології"
-    ru = "Факультет римо-католической теологии"
-    en = "Faculty of Roman-Catholic Theology"
-    sk = "Rímskokatolícka cyrilometodská bohoslovecká fakulta"
-
-[fevth]
-    ua = "Євангелічно-лютеранський теологічний факультет"
-    ru = "Евангелическо-лютеранский теологический факультет"
-    en = "Evangelical Lutheran Theological Faculty"
-    sk = "Evanjelická bohoslovecká fakulta"
-
-[fm]
-    ua = "Факультет менеджменту"
-    ru = "Факультет менеджмента"
-    en = "Faculty of Management"
-    sk = "Fakulta managementu"
-
-[fses]
-    ua = "Факультет соціально-економічних наук"
-    ru = "Факультет социально-экономических наук"
-    en = "Faculty of Social and Economic Sciences"
-    sk = "Fakulta sociálnych a ekonomických vied"

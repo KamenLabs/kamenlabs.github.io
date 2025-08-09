@@ -1,5 +1,5 @@
 +++
-title = "Fm"
+title = "Fakulta managementu"
 type = "chapter"
 weight = 0
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Fphil"
+title = "Filozofická fakulta"
 type = "chapter"
 weight = 0
 +++

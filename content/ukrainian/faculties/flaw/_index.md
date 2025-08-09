@@ -1,5 +1,5 @@
 +++
-title = "Flaw"
+title = "Юридичний факультет"
 type = "chapter"
 weight = 0
 +++

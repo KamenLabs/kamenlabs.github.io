@@ -1,5 +1,5 @@
 +++
-title = "Fevth"
+title = "Evangelical Lutheran Theological Faculty"
 type = "chapter"
 weight = 0
 +++

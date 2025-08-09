@@ -1,5 +1,5 @@
 +++
-title = "Fedu"
+title = "Pedagogická fakulta"
 type = "chapter"
 weight = 0
 +++

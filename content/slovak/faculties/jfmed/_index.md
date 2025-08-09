@@ -1,5 +1,5 @@
 +++
-title = "Jfmed"
+title = "Jesseniova lekárska fakulta"
 type = "chapter"
 weight = 0
 +++

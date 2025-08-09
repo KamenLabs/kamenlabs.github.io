@@ -1,5 +1,5 @@
 +++
-title = "Fmed"
+title = "Lekárska fakulta"
 type = "chapter"
 weight = 0
 +++

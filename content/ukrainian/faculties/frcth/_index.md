@@ -1,5 +1,5 @@
 +++
-title = "Frcth"
+title = "Факультет римо-католицької теології"
 type = "chapter"
 weight = 0
 +++

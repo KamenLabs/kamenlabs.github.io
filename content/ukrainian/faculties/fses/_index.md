@@ -1,5 +1,5 @@
 +++
-title = "Fses"
+title = "Факультет соціально-економічних наук"
 type = "chapter"
 weight = 0
 +++

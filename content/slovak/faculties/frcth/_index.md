@@ -1,5 +1,5 @@
 +++
-title = "Frcth"
+title = "Rímskokatolícka cyrilometodská bohoslovecká fakulta"
 type = "chapter"
 weight = 0
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Fpharm"
+title = "Фармацевтический факультет"
 type = "chapter"
 weight = 0
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Fns"
+title = "Faculty of Natural Sciences"
 type = "chapter"
 weight = 0
 +++

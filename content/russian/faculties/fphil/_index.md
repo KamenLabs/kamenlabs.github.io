@@ -1,5 +1,5 @@
 +++
-title = "Fphil"
+title = "Философский факультет"
 type = "chapter"
 weight = 0
 +++

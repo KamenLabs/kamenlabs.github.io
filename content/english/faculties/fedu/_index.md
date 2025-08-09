@@ -1,5 +1,5 @@
 +++
-title = "Fedu"
+title = "Faculty of Education"
 type = "chapter"
 weight = 0
 +++

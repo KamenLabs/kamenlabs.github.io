@@ -1,5 +1,5 @@
 +++
-title = "Fns"
+title = "Prírodovedecká fakulta"
 type = "chapter"
 weight = 0
 +++

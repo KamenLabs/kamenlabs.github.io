@@ -1,5 +1,5 @@
 +++
-title = "Fevth"
+title = "Evanjelická bohoslovecká fakulta"
 type = "chapter"
 weight = 0
 +++
