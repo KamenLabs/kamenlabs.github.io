@@ -1,6 +1,9 @@
 baseURL = 'https://kamenlabs.github.io/'
 theme = 'hugo-theme-relearn'
 
+defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = true
+
 [params]
   [[params.themeVariant]]
     identifier = 'relearn-light'
@@ -9,9 +12,6 @@ theme = 'hugo-theme-relearn'
   [[params.themeVariant]]
     identifier = 'relearn-dark'
     name = 'Dark'
-
-defaultContentLanguage = 'uk'
-defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.uk]
