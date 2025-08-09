@@ -1,15 +1,26 @@
 baseURL = 'https://kamenlabs.github.io/'
-title = 'Kameň Labs'
-theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+theme = 'hugo-theme-relearn'
+
+defaultContentLanguage = 'uk'
+
 [languages]
   [languages.en]
+    title = 'Kameň Labs'
     contentDir = 'content/english'
     languageName = 'English'
-    weight = 10
-  [languages.ua]
+    weight = 40
+  [languages.uk]
+    title = 'Kameň Labs UA'
     contentDir = 'content/ukrainian'
     languageName = 'Українська'
+    weight = 10
+  [languages.ru]
+    title = 'Kameň Labs RU'
+    contentDir = 'content/russian'
+    languageName = 'Русский'
     weight = 20
+  [languages.sk]
+    title = 'Kameň Labs SK'
+    contentDir = 'content/slovak'
+    languageName = 'Slovenský'
+    weight = 30
