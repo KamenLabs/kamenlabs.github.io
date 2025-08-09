@@ -1,6 +1,6 @@
 +++
-title = "Home123"
+title = ""
 type = "home"
 +++
 
-нова сторінка.
+This is your new home page.

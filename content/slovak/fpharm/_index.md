@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Fpharm"
 type = "chapter"
 weight = 0
 +++

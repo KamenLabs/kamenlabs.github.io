@@ -1,6 +1,6 @@
 +++
-title = "Домашняя страница"
+title = ""
 type = "home"
 +++
 
-Это новая домашняя страница.
+This is your new home page.

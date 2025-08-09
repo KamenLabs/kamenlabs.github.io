@@ -1,5 +1,5 @@
 +++
-title = "Home123"
+title = ""
 type = "home"
 +++
 
