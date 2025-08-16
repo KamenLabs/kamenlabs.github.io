@@ -5,8 +5,17 @@
 
 langs=("english" "slovak" "ukrainian" "russian")
 
+help="Usage: `basename $0` <kind> <path (including filename)>"
+example="Example: $0 default ubytovanie/general/points/_index.md"
+
+if [ "$1" == "-h" ] ; then
+    echo $help
+    echo $example
+    exit 0
+fi
+
 if [ "$#" -ne 2 ]; then
-    echo "Usage: $0 <kind> <path>"
+    echo $help
     exit 1
 fi
 
