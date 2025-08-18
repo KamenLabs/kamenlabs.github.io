@@ -1,6 +1,7 @@
 +++
 title = "Факультет природничих наук"
 type = "chapter"
+description= "опис факультету"
 weight = 0
 +++
 
