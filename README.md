@@ -1,6 +1,18 @@
 # StoneGuides
 Website for guides for Kameň students 
 
+## Download and running project
+To install the project, you must run 
+```
+git clone --recursive-submodules https://github.com/KamenLabs/kamenlabs.github.io.git
+```
+
+To run the project, you must type the command in the project directory:
+
+```
+hugo server
+```
+
 ## About
 
 Website supports 4 languages:
