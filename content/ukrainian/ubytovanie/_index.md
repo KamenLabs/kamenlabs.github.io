@@ -1,9 +1,9 @@
 +++
-title = "Ubytovanie"
+title = "Проживання в гуртожитках"
 type = "chapter"
 weight = 0
 +++
 
-This is a new chapter.
+У цьому розділі зібрана інформація про гуртожитки: загальні питання, що стосуються гуртожитків, специфіка проживання на гуртожитках UK Mlyny, специфіка проживання на гуртожитках Družba UK.
 
 {{% children containerstyle="div" style="h2" description=true %}}

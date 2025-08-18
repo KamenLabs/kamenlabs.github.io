@@ -1,5 +1,5 @@
 +++
-title = "Druzba"
+title = "Družba UK"
 type = "chapter"
 weight = 0
 +++

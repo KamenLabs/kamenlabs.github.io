@@ -1,7 +1,7 @@
 +++
-title = "General"
+title = "Загальні питання"
 type = "chapter"
-weight = 0
+weight = 1
 +++
 
 This is a new chapter.
